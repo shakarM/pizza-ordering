@@ -1,3 +1,3 @@
 # Pizza Ordering App
 
-In this app the focus is on Tailwind, React Redux, data fetching, andd advanced React Router Dom
+In this app the main focus is on Tailwind, React Redux, data fetching, andd advanced React Router Dom
